@@ -1,0 +1,3 @@
+[submodule "wai"]
+	path = wai
+	url = git@github.com:chessai/wai.git
